@@ -1,5 +1,5 @@
 ## react-native-template 
-- dva axios react-native @react-navigation/native
+- dva axios react-native @react-navigation/native lottie
 
 ## 基本环境的安装
 ```js
